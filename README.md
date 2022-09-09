@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @criccite
+- 👋 Hello my name's Camella 
 - 👀 I’m interested in user experience and graphic design
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on building websites for business owners
-- 📫 How to reach me ... camella.riccitelli@gmail.com
+- 💞️ I’m looking to collaborate with industrious individuals  
+- 📫 Connect with me ->| camella.riccitelli@gmail.com |<-
 
 <!---
 criccite/criccite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
